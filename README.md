@@ -243,8 +243,6 @@
 | <h2 id="资源类">资源类</h2> |  |   |  |
 | <div id="R001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/R001.png" width="30px" style="width:30px;height: auto;"/><br><span>R001</span></div> | 书格 |  有品格的数字古籍图书馆 | [‣ 历代名公画谱 \| 2019-11-09](https://new.shuge.org/view/li_dai_ming_gong_hua_pu/#new_tab)<br/>[‣ 家具陈设画册 \| 2019-11-09](https://new.shuge.org/view/jia_ju_chen_she_hua_ce/#new_tab)  |  [订阅地址](https://www.shuge.org/feed/) |  
 | R002 | 书伴 |  为静心阅读而生 | [‣ \[每周一书\]《反对阐释》作为美学和道德的写作 🌈 2021-09-13](https://bookfere.com/post/924.html)<br/>[‣ \[每周一书\] 人文普及读物《欧洲：一堂丰富的人文课》 🌈 2021-09-13](https://bookfere.com/post/923.html)  |  [订阅地址](https://feeds.feedburner.com/bookfere) |  
-| R003 | kindle吧 |  海量书单阅读分享者 | [‣ 《白色巨塔》\[七册\]山崎丰子/当之无愧的日本社会派巨匠/epub+mobi+azw3 Kindle版+多看精排版下载 \| 2021-06-14](https://www.kindle8.cc/wxxs/35650.html)<br/>[‣ 《鞋带》斯塔尔诺内/暴露婚姻生活压抑疼痛直击生活痛点/epub+mobi+azw3 \| 2021-06-14](https://www.kindle8.cc/wxxs/35628.html)  |  [订阅地址](https://www.kindle8.cc/feed) |  
-
 
 
 ## 如何定制自己的私人简报?
@@ -314,3 +312,4 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 ![wx-rss-001](https://cdn.fangyuanxiaozhan.com/assets/1631157359186yYa61HDi.png)
 
  
+  
