@@ -2,12 +2,14 @@
 
 #### 1、开启邮箱的POP3/SMTP服务，
 以QQ邮箱为例-->邮箱设置-->账户-->开启服务：POP3/SMTP服务
+
 ![](https://github.com/carooly/garss/blob/main/readme/001.PNG)
 
 需要发送短信进行验证
+
 ![](https://github.com/carooly/garss/blob/main/readme/002.PNG)
 
-#### 2、获取授权码（即github后续配置的PASSWORD）
+#### 2、获取授权码（即后续配置Settings的PASSWORD）
 ![](https://github.com/carooly/garss/blob/main/readme/003.PNG)
 
 
@@ -18,13 +20,13 @@
 fork一份程序到自己的仓库，然后切换到自己的仓库。
 ![](https://github.com/carooly/garss/blob/main/readme/004.PNG)
 
-#### 2、在settings标签中，允许运行actions
+#### 2、在Settings标签中，允许运行actions
 ![允许运行actions](https://cdn.fangyuanxiaozhan.com/assets/1630216112533FANcC1QY.jpeg)
 
-同时，去actions标签检查一下zhaoolee的工作流（workflow）是否已启动，如未启动请手动启动。
+同时，去Actions标签检查一下工作流（workflow）--zhaoolee是否已启动，如未启动请手动启动。
 
 
-#### 3、在settings中，按照下图设置发件邮箱相关内容。注意：PASSWORD为第一步第2节中获取的授权码！
+#### 3、在Settings中，按照下图设置发件邮箱相关内容。注意：PASSWORD为第一步第2节中获取的授权码！
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1629970189283arACkBKe.png)
 
@@ -56,9 +58,10 @@ fork一份程序到自己的仓库，然后切换到自己的仓库。
 
 
 
-## 三、无法收到邮件怎么办（需要准备梯子）
-
+## 三、无法收到邮件，可以按照下面的方法进行测试
+### （需要准备梯子）
 可以按照以下代码，自测一下自己的HOST, PASSWORD，USER 是否能顺利发邮件
+### 注意：PASSWORD即开启POP3/SMTP服务获取的授权码
 
 ```
 !pip install yagmail
