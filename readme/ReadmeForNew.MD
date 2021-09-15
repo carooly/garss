@@ -1,8 +1,11 @@
 ## 一、新手准备
 ### 1、开启邮箱的POP3/SMTP服务，
+![](https://github.com/carooly/garss/blob/main/readme/001.PNG)
+
+![](https://github.com/carooly/garss/blob/main/readme/002.PNG)
 
 ### 2、获取授权码（即github后续配置的PASSWORD）
-
+![](https://github.com/carooly/garss/blob/main/readme/003.PNG)
 
 
 
@@ -10,6 +13,7 @@
 
 ### 1、从 zhaoolee大神的git 仓库（链接：github.com/zhaoolee/garss）, 
 fork一份程序到自己的仓库，然后切换到自己的仓库。
+![](https://github.com/carooly/garss/blob/main/readme/004.PNG)
 
 ### 2、在settings标签中，允许运行actions
 ![允许运行actions](https://cdn.fangyuanxiaozhan.com/assets/1630216112533FANcC1QY.jpeg)
